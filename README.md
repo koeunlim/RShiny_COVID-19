@@ -6,6 +6,7 @@ Specifically, COVID-19 outcome measures between 0 to 30 dayes from the onset of 
 
 COVID-19 outcome measures were referenced from IHME (Institute for Health Metrics and Evaluation of University of Washington), and COVID-19 state policies and their onset dates were referenced from healthdata.gov.
 
+
 Although more thorough statistical analysis is required to support the claims herein, this exploratory visualization provides insights to potential hypotheses that may be worth investigating.
 
 Such hypotheses include:
@@ -16,6 +17,10 @@ Such hypotheses include:
   
   (3) Childcare (start)'s confirmed case rate is similar to Entertainment, Food and Drink, and Gym (start)' confirmed case rates. However, Childcare policy's death rate starts dropping faster than other three.
   
-  (4) 
+  (4) All policy liftings (stop) were driven by low confirmed cases. However, the confirmed case rate started climbing (crossed 0) around 15 days after the issue dates, which is consistent with COVID-19's dormant period.
+  
+  (5) Mask mandate in public facing business is hard to interpret because of the wide dispersion. Majority of states implemented the around May, but some implemented only after 2~3 months later with 6 states that didn't implement the mask mandate (as of 10/15).
+  
+  (6) Mask mandates show quite different trends between public facing business (partial) and in all public space (full). It is difficult to make conclusions as of now without looking at how the date distributions differ. However, it can still be seen that both mask mandates were driven by high confirmed cases. It is also very interesting that the full mask mandate started with greater new confirmed cases but yields similar new deaths as partial mask mandate. Both mandates are associated with new confirmed cases and new deaths immediately decreasing, indicating that the policy started in response to greater cases and people already started taking individual measures to reduce the exposure. It is also worth noting that ICU overflow (=[total ICU capacity] - [average ICU bed usage]) for full mask mandate declines more rapidly than the partial public facing business mask mandate.
 
 
