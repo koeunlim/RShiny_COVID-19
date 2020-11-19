@@ -22,5 +22,12 @@ Such hypotheses include:
   (5) Mask mandate in public facing business is hard to interpret because of the wide dispersion. Majority of states implemented the around May, but some implemented only after 2~3 months later with 6 states that didn't implement the mask mandate (as of 10/15).
   
   (6) Mask mandates show quite different trends between public facing business (partial) and in all public space (full). It is difficult to make conclusions as of now without looking at how the date distributions differ. However, it can still be seen that both mask mandates were driven by high confirmed cases. It is also very interesting that the full mask mandate started with greater new confirmed cases but yields similar new deaths as partial mask mandate. Both mandates are associated with new confirmed cases and new deaths immediately decreasing, indicating that the policy started in response to greater cases and people already started taking individual measures to reduce the exposure. It is also worth noting that ICU overflow (=[total ICU capacity] - [average ICU bed usage]) for full mask mandate declines more rapidly than the partial public facing business mask mandate.
+  
+  (7) It seems that ICU overflow matches new deaths, which is frightening. 
+  
+  (8) New York and New Jersey accounted for 50% of the total confirmed cases in the U.S.
+  
+  (9) It would be helpful to see the correlations between the policy onset date and some of the count and rate parameters.
+  
 
 
