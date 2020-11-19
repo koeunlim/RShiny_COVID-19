@@ -1,0 +1,13 @@
+"","policy_type","start_stop","n"
+"1","Childcare (K-12)","start",50
+"2","Entertainment","start",50
+"3","Food and Drink","start",50
+"4","Non-Essential Businesses","stop",50
+"5","Gyms","start",49
+"6","Food and Drink","stop",48
+"7","Shelter in Place","start",47
+"8","Non-Essential Businesses","start",46
+"9","Shelter in Place","stop",46
+"10","Gyms","stop",45
+"11","Mandate Face Mask Use By All Individuals In Public Facing Businesses","start",45
+"12","Mandate Face Mask Use By All Individuals In Public Spaces","start",34
